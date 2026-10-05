@@ -36,6 +36,7 @@ migrate_working_dir/
 
 # iOS
 **/ios/Flutter/.last_build_id
+ios/build/
 
 # Android build artifacts
 /android/app/debug
@@ -57,5 +58,3 @@ app.*.map.json
 .fvm/flutter_sdk
 
 notes.md
-
-ios/build/
