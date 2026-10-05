@@ -57,3 +57,5 @@ app.*.map.json
 .fvm/flutter_sdk
 
 notes.md
+
+ios/build/
