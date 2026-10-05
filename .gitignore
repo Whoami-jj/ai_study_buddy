@@ -55,6 +55,7 @@ app.*.map.json
 !.env.example
 
 # FVM
-.fvm/flutter_sdk
+.fvm/
 
+# Project notes
 notes.md
